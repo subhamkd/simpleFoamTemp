@@ -5,3 +5,7 @@ The solver was built following the tutorial slides provided at www.cloudpyme.eu,
 ### flow past a heated square
 
 This openFoam test case uses the solver to simulate the flow of a fluid past a heated square in a straight rigid channel. 
+
+### Pitzdaily tutorial with a heated top boundary
+
+This test case uses the solver to run the pitzDaily tutorial provided in openFoam, with a heated top boundary 
